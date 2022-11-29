@@ -1,6 +1,6 @@
 # MedEasy-App
-MEDEASY is an app that works with the pharmacy and doctor to provide a simple solution by enabling the patient to receive notifications regarding their prescription, medication, and pharmacy. This app is built using AWS Services and Python.
-AWS Services used:
+MEDEASY is an app that works with the pharmacy and doctor to provide a simple solution by enabling the patient to receive notifications regarding their prescription, medication, and pharmacy. This app is built using AWS Services and Python./n
+AWS Services used are:
 1. Amazon Cognito
 2. Amazon API Gateway
 3. AWS Lambda
