@@ -1,0 +1,34 @@
+{
+	"task":"create",
+	"data":{
+		"id": "1010",
+		"PatientName": "Namrata Singh",
+		"Age": "35",
+		"Date": "27-Apr-2020,4:37 PM",
+   		"Temp(deg)": "36",
+   		"BP": "120/80 mmHg",
+   		"Doctor":"Dr.Onkar Bhave(M.B.B.S.,MD.,M.S.)",
+   		"Address":"Care Clinic",
+   		"Disease":"Jaundice",
+		"MedicineName": [
+			"TAB,Cyclobenzaprine",
+			"CAP,Amoxicillin",
+			"TAB,Loratadine" 
+		],
+		"Dosage": [
+		    "1 Morning,1 Night(Before Food)",
+		    "1 Morning,1 Night(Before Food)",
+		    "1 Morning,1 Aft,1Eve1 Night(After Food)"
+	    ],
+	    "Advice": "Avoid Oily and Spicy Food",
+	    "FollowUpDate":"12-05-2020",
+ 	    "Pharmacy": "Perfect Dose Pharmacy"
+	}
+}
+
+{
+	"task": "read",
+	"data": {
+		"id": "1005"
+		}
+}

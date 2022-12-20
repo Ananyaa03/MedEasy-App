@@ -1,0 +1,23 @@
+{
+   "id": "1009",
+   "PatientName": "Namrata Shah",
+   "Age":"35",
+   "Date": "27-Apr-2020,4:37 PM",
+   "Temp(deg)": "36",
+   "BP": "120/80 mmHg",
+   "Doctor":"Dr.Onkar Bhave(M.B.B.S.,MD.,M.S.)",
+   "Address":"Care Clinic",
+   "Disease":"Jaundice",
+   "Medicine Name": [
+		"TAB,MEDICINE 1",
+		"CAP,MEDICINE 2",
+		"TAB,MEDICINE 3" 
+	],
+	"Dosage": [
+		"1 Morning,1 Night(Before Food)",
+		"1 Morning,1 Night(Before Food)",
+		"1 Morning,1 Aft,1Eve1 Night(After Food)"
+	],
+	"Advice": "Avoid Oily and Spicy Food",
+	"FollowUpDate":"12-05-2020"
+}
