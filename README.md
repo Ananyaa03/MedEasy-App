@@ -9,6 +9,10 @@ AWS Services used are:
 6. Amazon SQS
 7. AWS Identity and Access Management
 
+Project Architecture:
+![image](https://github.com/Ananyaa03/MedEasy-App/assets/62787867/884e3647-abf8-4d06-8f71-5166fae72f33)
+
+
 Application Output:
 
 ![Homepage](https://user-images.githubusercontent.com/62787867/208613548-7525c9b7-a378-41a4-897d-2685b79d4559.png)
