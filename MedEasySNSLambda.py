@@ -2,7 +2,7 @@ import boto3
 import json
 
 
-topic_arn = "arn:aws:sns:us-east-1:053631896887:SnsPatientDetails"
+topic_arn = "topic_arn"
 def send_sns(message, subject):
     try:
         client = boto3.client("sns")
